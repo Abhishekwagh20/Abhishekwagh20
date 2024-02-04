@@ -122,6 +122,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Abhishekwagh20/Abhishekwagh20/output/snake.svg" alt="Snake animation" />
 
 ###
