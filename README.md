@@ -3,13 +3,32 @@
 ###
 
 <div align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishekwagh20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<p align="left">🌟 Check out my portfolio!  🚀https://abhishekwagh.com/</p>
+<p align="left">👨‍💻 All of my projects are available at  🚀 https://abhishekwagh.com/</p>
+
+###
+
+<p align="left">🔭 I’m currently working on Streaming Platform</p>
+
+###
+
+<p align="left">👯 I’m looking to collaborate on Java Project</p>
+
+###
+
+<p align="left">🌱 I’m currently learning Java Frameworks, Machine Learning</p>
+
+###
+
+<p align="left">💬 Ask me about Full Stack Development</p>
+
+###
+
+<p align="left">📫 How to reach me abhimwagh20@gmail.com</p>
 
 ###
 
@@ -103,7 +122,6 @@
 
 ###
 
-<br clear="both">
-
+<img src="https://raw.githubusercontent.com/Abhishekwagh20/Abhishekwagh20/output/snake.svg" alt="Snake animation" />
 
 ###
