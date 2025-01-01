@@ -51,7 +51,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://www.google.com/imgres?q=amazon%20web%20service%20logo&imgurl=https%3A%2F%2Fvallous.com%2Fwp-content%2Fuploads%2F2022%2F05%2Famazon-web-services-logo-sm-.svg&imgrefurl=https%3A%2F%2Fvallous.com%2Fpartners%2Famazon-web-services%2F&docid=vMV4iMjLeJV1EM&tbnid=IshOqjtE0qGEhM&vet=12ahUKEwjkkdz7ttWKAxWklokEHbylAtEQM3oECGcQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwjkkdz7ttWKAxWklokEHbylAtEQM3oECGcQAA)" height="30" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
   <img width="12" />
